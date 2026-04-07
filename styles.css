@@ -149,8 +149,9 @@ a { text-decoration: none; color: inherit; }
 }
 
 .hero-logo {
-  height: 64px;
-  margin: 0 auto 32px;
+  height: 120px;
+  margin: 0 auto 40px;
+  drop-shadow: 0 2px 12px rgba(0,0,0,0.15);
 }
 
 .hero h1 {
@@ -539,8 +540,8 @@ form .btn {
 }
 
 .footer-logo {
-  height: 40px;
-  opacity: 0.7;
+  height: 64px;
+  opacity: 0.8;
 }
 
 .footer p {
@@ -602,8 +603,8 @@ form .btn {
   }
 
   .hero-logo {
-    height: 48px;
-    margin-bottom: 24px;
+    height: 90px;
+    margin-bottom: 28px;
   }
 
   .hero-subtitle {
