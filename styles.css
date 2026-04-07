@@ -170,12 +170,12 @@ a { text-decoration: none; color: inherit; }
 
 .video-wrapper {
   position: relative;
-  max-width: 720px;
+  max-width: 400px;
   margin: 0 auto 40px;
   border-radius: var(--radius-lg);
   overflow: hidden;
   box-shadow: 0 20px 60px rgba(0,0,0,0.2);
-  aspect-ratio: 16/9;
+  aspect-ratio: 9/16;
   background: rgba(0,0,0,0.2);
 }
 
